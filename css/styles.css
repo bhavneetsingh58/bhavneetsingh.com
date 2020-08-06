@@ -10262,4 +10262,13 @@ form .row:first-child .floating-label-form-group {
 
 
 
+.mid {
+  margin: auto; 
+  padding: 10px;
+  font-size:100%;
+}
 
+.cardformatter{
+  margin:auto;
+  text-align: left;
+}
